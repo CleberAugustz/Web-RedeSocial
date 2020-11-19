@@ -1,4 +1,4 @@
-# Projeto RedeSocial - Desafio Entrevista
+# Projeto RedeSocial - Desafio
 
 ## Acesso online 
 ### https://gracious-lamport-888355.netlify.app
