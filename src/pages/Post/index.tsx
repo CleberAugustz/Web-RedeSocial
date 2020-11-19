@@ -105,6 +105,7 @@ const Post: React.FC = () => {
         </Title>
 
         {comments.map(comment => (
+          // eslint-disable-next-line
           <a key={comment.id}>
             <div>
               <strong>
